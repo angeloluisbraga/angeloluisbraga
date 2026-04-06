@@ -21,7 +21,7 @@ Atualmente estou desenvolvendo minhas habilidades através de projetos e certifi
 ### 💻 Linguagens
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🌐 Frontend (em aprendizado)
+### 🌐 Em aprendizado
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -35,17 +35,17 @@ Atualmente estou desenvolvendo minhas habilidades através de projetos e certifi
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=angeloluisbraga&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=angeloluisbraga&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angeloluisbraga&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=angeloluisbraga&layout=compact&theme=tokyonight)
 
 ---
 
-## 🔥 Sequência de Contribuições
+<!-- ## 🔥 Sequência de Contribuições
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=angeloluisbraga&theme=tokyonight)
 
----
+--- -->
 
 ## 📚 Atualmente estudando
 
