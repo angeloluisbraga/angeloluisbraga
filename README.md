@@ -24,5 +24,8 @@
 
 <!--
   não esquecer de manter os badges atualizados, manter o perfil ╰（‵□′）╯
+  
   https://dev.to/envoy1084/150-badges-for-github-pnk <- site dos badges para não me perder
+
+  https://github.com/anuraghazra/github-readme-stats <- link para o repositório do git hub stats a ser usado
 -->
