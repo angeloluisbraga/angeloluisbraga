@@ -12,7 +12,7 @@
 
 Sou estudante de Engenharia de Software com foco em desenvolvimento Full Stack e construção de soluções práticas.
 
-Atualmente estou desenvolvendo minhas habilidades através de projetos e certificações (FreeCodeCamp), com ênfase em Python, banco de dados e desenvolvimento web.
+Atualmente estou desenvolvendo minhas habilidades através de projetos e certificações (FreeCodeCamp), com ênfase em JavaScript e Cibersegurança.
 
 ---
 
@@ -20,12 +20,13 @@ Atualmente estou desenvolvendo minhas habilidades através de projetos e certifi
 
 ### 💻 Linguagens
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🌐 Em aprendizado
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🌐 Em aprendizado
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Cibersegurança](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
 
 ### ⚙️ Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -35,9 +36,10 @@ Atualmente estou desenvolvendo minhas habilidades através de projetos e certifi
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=angeloluisbraga&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=angeloluisbraga&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=angeloluisbraga&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=angeloluisbraga&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
 
 ---
 
@@ -64,8 +66,8 @@ FreeCodeCamp:
 
 ## 📫 Contato
 
-📧 Email: angelocarrilho06@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/ângelobraga  
+📧 Email: [angelocarrilho06@gmail.com](mailto:angelocarrilho06@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/angelobraga](https://www.linkedin.com/in/angelobraga)  
 
 ---
 
